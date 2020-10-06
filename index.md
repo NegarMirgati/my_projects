@@ -64,7 +64,7 @@ The projects are categorized by subject. I'll try to add more detailed explanati
 <h3 id="cmp">Design and Implementation of Compilers</h3>
 <ol>
 <li><a href="https://github.com/NegarMirgati/lexicalAndSyntaxAnalyzer">Smoola Lexical and Syntax Analyzer using ANTLR</a></li>
-<li><a href="https://github.com/NegarMirgati/Compiler-phase2">Smoola Semantic Analysis></a></li>
+<li><a href="https://github.com/NegarMirgati/Compiler-phase2">Smoola Semantic Analysis</a></li>
 <li><a href="https://github.com/NegarMirgati/Smoola_NameAnalysis">Smoola Name Analysis </a></li>
 </ol>
 
