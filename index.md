@@ -2,6 +2,27 @@
 Here is a list of my exisiting projects in github and a short explanation of them.
 The projects are categorized by subject. I'll try to add more detailed explanation asap! :nerd_face:
 
+List of Subjects:
+
+* [Operating Systems](#os)
+* [Computer Networks](#cn)
+* [Algorithmic Graph Theory](#agt)
+* [Real-Time and Embedded Systems](#rte)
+* [Machine Learning](#ml)
+* [Data Communication](#dc)
+* [Internet Engineering](#ie)
+* [Computer-Aided Design](#cad)
+* [Signal and Systems](#sa)
+* [Linear Control Systems](#lc)
+* [Design and Analysis of Compilers](#cmp)
+* [Network Secuirty](#ns)
+* [Linear Control Systems](#lc)
+* [Digital Electronic Circuits](#dec)
+* [VLSI(Very-large-scale integration)](#vlsi)
+* [Thesis Project](#vlsi)
+
+<hr>
+
 <h3 id="os">Operating Systems</h3>
 
 <ol>
@@ -29,7 +50,7 @@ The projects are categorized by subject. I'll try to add more detailed explanati
 <li> <a href="https://github.com/NegarMirgati/Light-Seeking-Robot">Light-Seeking Arduino Robot</a></li>
 </ol>
 
-# Machine Learning
+<h3 id="ml">Machine Learning</h3>
 <ol>
 <li><a href="https://github.com/NegarMirgati/Machine-Learning"> TODO desc. </a></li>
 </ol>
@@ -40,8 +61,10 @@ The projects are categorized by subject. I'll try to add more detailed explanati
 <li><a href="https://github.com/NegarMirgati/CodingAndErrorDetection"> An implementation of Huffman coding and Convolutional coding using python </a></li>
 </ol>
 
-# Internet Engineering
-* 
+<h3 id="ie">Internet Engineering</h3>
+<ol>
+<li><a href="https://github.com/NegarMirgati/JobInja"> Implementation of a A web application similar to JobInja</a></li>
+</ol>
 
 <h3 id="cad">Computer-Aided Design</h3>
 <ol>
