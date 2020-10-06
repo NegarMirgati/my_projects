@@ -52,7 +52,7 @@ List of Subjects:
 
 <h3 id="ml">Machine Learning</h3>
 <ol>
-<li><a href="https://github.com/NegarMirgati/Machine-Learning"> TODO desc. </a></li>
+<li><a href="https://github.com/NegarMirgati/Machine-Learning"> Learning to work with Jupyter and scikit-learn library</a></li>
 </ol>
 
 <h3 id="dc">Data Communications</h3>
@@ -69,8 +69,7 @@ List of Subjects:
 <h3 id="cad">Computer-Aided Design</h3>
 <ol>
 <li><a href="https://github.com/NegarMirgati/Matrix-Multiplication">A 3*3 matrix multiplicator written in verilog </a></li>
-<li><a href="https://github.com/NegarMirgati/Lloyds_Quantizer">An implementation of Lloyds Quantizer using matlab </a></li>
-<li><a href="https://github.com/NegarMirgati/CAD_Proj2">todo</a></li>
+<li><a href="https://github.com/NegarMirgati/CAD_Proj2">todo desc.</a></li>
 <li><a href="https://github.com/NegarMirgati/Neuron-Verilog"> In implementation of a Neuron written in verilog </a></li>
 </ol>
 
