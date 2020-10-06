@@ -85,7 +85,12 @@ The projects are categorized by subject. I'll try to add more detailed explanati
 
 <h3 id="vlsi">VLSI</h3>
 <ol>
-<li><a href="https://github.com/NegarMirgati/VLSI_CA1">Mosfet Charactersitics</a></li>
-<li><a href="https://github.com/NegarMirgati/KoggeStone-BrentKung">gate level implementation of Kogge-Stone and Brent-Kung adders </a></li>
-<li><a href="https://github.com/NegarMirgati/NandScaling"> Nand Scaling </a></li>
+    <li><a href="https://github.com/NegarMirgati/VLSI_CA1">Mosfet Charactersitics</a></li>
+    <li><a href="https://github.com/NegarMirgati/KoggeStone-BrentKung">gate level implementation of Kogge-Stone and Brent-Kung adders </a></li>
+    <li><a href="https://github.com/NegarMirgati/NandScaling"> Nand Scaling </a></li>
 </ol>
+
+<h3 id="thesis">Thesis Project</h3>
+<ul>
+    <li><a href="https://github.com/NegarMirgati/ChatBot-Server">Implementation of a ChatBot Server for Moodle</a></li>
+</ul>
