@@ -41,7 +41,16 @@ List of Subjects:
 
 <h3 id="agt">Algorithmic Graph Theory</h3>
 <ol>
-<li> <a href="https://github.com/NegarMirgati/AGT_CA2">TODO desc</a></li>
+<li> <a href="https://github.com/NegarMirgati/AGT_CA2"> 
+Computer Assignment #2
+</a></li>
+Solved following problems using R and igraph
+    <ul> 
+        <li> Prize collecting steiner tree problem</li>
+        <li> calculating centrality scores for a directed weighted graph to find important nodes in GOT(Game of Thrones) graph</li>
+        <li>Using igraph clustering methods to divide GOT graph into sets of vertices</li>
+        <li>An implementation of Random Walk Closeness Centrality </li>
+    </ul>
 <li> <a href="https://github.com/NegarMirgati/Coloring_Dominating-Set">TODO Desc</a></li>
 </ol>
 
