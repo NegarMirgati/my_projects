@@ -42,7 +42,7 @@ List of Subjects:
 <h3 id="agt">Algorithmic Graph Theory</h3>
 <ol>
 <li> <a href="https://github.com/NegarMirgati/AGT_CA2"> 
-Computer Assignment #2 </br>
+Computer Assignment #2 <br>
 </a>
     Solved following problems using R and igraph
     <ul> 
