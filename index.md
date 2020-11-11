@@ -42,15 +42,16 @@ List of Subjects:
 <h3 id="agt">Algorithmic Graph Theory</h3>
 <ol>
 <li> <a href="https://github.com/NegarMirgati/AGT_CA2"> 
-Computer Assignment #2
-</a></li>
-Solved following problems using R and igraph
+Computer Assignment #2 </br>
+</a>
+    Solved following problems using R and igraph
     <ul> 
         <li> Prize collecting steiner tree problem</li>
         <li> calculating centrality scores for a directed weighted graph to find important nodes in GOT(Game of Thrones) graph</li>
         <li>Using igraph clustering methods to divide GOT graph into sets of vertices</li>
         <li>An implementation of Random Walk Closeness Centrality </li>
     </ul>
+</li>
 <li> <a href="https://github.com/NegarMirgati/Coloring_Dominating-Set">TODO Desc</a></li>
 </ol>
 
@@ -117,11 +118,14 @@ Solved following problems using R and igraph
 <h3 id="vlsi">VLSI</h3>
 <ol>
     <li><a href="https://github.com/NegarMirgati/VLSI_CA1">Mosfet Charactersitics</a></li>
-    <li><a href="https://github.com/NooShinTghvi/VLSI_CAII">VLSI assignment 2 </a></li>
-    <ul> 
-        <li>  calculating switching activity </li>
-        <li> finding 5 best inputs which cause minimum leakage </li>
-    </ul>
+    <li><a href="https://github.com/NooShinTghvi/VLSI_CAII">VLSI assignment 2 </a>
+        <p>
+            <ul> 
+                <li>  calculating switching activity </li>
+                <li> finding 5 best inputs which cause minimum leakage </li>
+            </ul>
+        </p>
+    </li>
     <li><a href="https://github.com/NegarMirgati/KoggeStone-BrentKung">gate level implementation of Kogge-Stone and Brent-Kung adders </a></li>
     <li><a href="https://github.com/NegarMirgati/NandScaling"> Nand Scaling </a></li>
 </ol>
