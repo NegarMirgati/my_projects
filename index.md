@@ -117,6 +117,11 @@ Solved following problems using R and igraph
 <h3 id="vlsi">VLSI</h3>
 <ol>
     <li><a href="https://github.com/NegarMirgati/VLSI_CA1">Mosfet Charactersitics</a></li>
+    <li><a href="https://github.com/NooShinTghvi/VLSI_CAII">VLSI assignment 2 </a></li>
+    <ul> 
+        <li>  calculating switching activity </li>
+        <li> finding 5 best inputs which cause minimum leakage </li>
+    </ul>
     <li><a href="https://github.com/NegarMirgati/KoggeStone-BrentKung">gate level implementation of Kogge-Stone and Brent-Kung adders </a></li>
     <li><a href="https://github.com/NegarMirgati/NandScaling"> Nand Scaling </a></li>
 </ol>
