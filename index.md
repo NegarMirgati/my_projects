@@ -63,6 +63,7 @@ Computer Assignment #2 <br>
 <h3 id="ml">Machine Learning</h3>
 <ol>
 <li><a href="https://github.com/NegarMirgati/Machine-Learning"> Learning to work with Jupyter and scikit-learn library</a></li>
+<li><a href="https://github.com/NegarMirgati/IntroToML">Notebooks and code for the book "Introduction to Machine Learning with Python"</a></li>
 </ol>
 
 <h3 id="dc">Data Communications</h3>
