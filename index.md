@@ -1,25 +1,26 @@
 # Description
+
 Here is a list of my exisiting projects in github and a short explanation of them.
 The projects are categorized by subject. I'll try to add more detailed explanation asap! :nerd_face:
 
 List of Subjects:
 
-* [Operating Systems](#os)
-* [Computer Networks](#cn)
-* [Algorithmic Graph Theory](#agt)
-* [Real-Time and Embedded Systems](#rte)
-* [Machine Learning](#ml)
-* [Data Communication](#dc)
-* [Internet Engineering](#ie)
-* [Computer-Aided Design](#cad)
-* [Signal and Systems](#sa)
-* [Linear Control Systems](#lc)
-* [Design and Analysis of Compilers](#cmp)
-* [Network Secuirty](#ns)
-* [Linear Control Systems](#lc)
-* [Digital Electronic Circuits](#dec)
-* [VLSI(Very-large-scale integration)](#vlsi)
-* [Thesis Project](#vlsi)
+- [Operating Systems](#os)
+- [Computer Networks](#cn)
+- [Algorithmic Graph Theory](#agt)
+- [Real-Time and Embedded Systems](#rte)
+- [Machine Learning](#ml)
+- [Data Communication](#dc)
+- [Internet Engineering](#ie)
+- [Computer-Aided Design](#cad)
+- [Signal and Systems](#sa)
+- [Linear Control Systems](#lc)
+- [Design and Analysis of Compilers](#cmp)
+- [Network Secuirty](#ns)
+- [Linear Control Systems](#lc)
+- [Digital Electronic Circuits](#dec)
+- [VLSI(Very-large-scale integration)](#vlsi)
+- [Thesis Project](#vlsi)
 
 <hr>
 
@@ -70,6 +71,7 @@ Computer Assignment #2 <br>
 <ol>
 <li><a href="https://github.com/NegarMirgati/Lloyds_Quantizer">An implementation of Lloyds Quantizer using matlab </a></li>
 <li><a href="https://github.com/NegarMirgati/CodingAndErrorDetection"> An implementation of Huffman coding and Convolutional coding using python </a></li>
+<li><a href="https://negarmirgati.github.io/MAPVis/"> Visualization of MAP</a></li>
 </ol>
 
 <h3 id="ie">Internet Engineering</h3>
